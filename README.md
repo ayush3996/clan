@@ -1,1 +1,1 @@
-# clan website
+# clan.github.io
